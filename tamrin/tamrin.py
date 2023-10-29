@@ -1,1 +1,0 @@
-print("Name:Ramin \n lname:Kamali \n Age:20")
